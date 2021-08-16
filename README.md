@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmorrissey98&count_private=true&hide=issues,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmorrissey98&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmorrissey98&langs_count=8&theme=radical&exclude_repo=DataMining)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **seanmorrissey98/seanmorrissey98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
