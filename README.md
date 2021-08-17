@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+and+welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-morrissey-00451a155)
 [![Twitter](https://img.shields.io/badge/SeanMorrissey98-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SeanMorrissey98)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/seanmorrissey2014?si=1bfd3a571a07427e)
