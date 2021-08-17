@@ -5,7 +5,6 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/seanmorrissey2014?si=1bfd3a571a07427e)
 
 ## My GitHub Stats
---------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmorrissey98&count_private=true&hide=issues,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
