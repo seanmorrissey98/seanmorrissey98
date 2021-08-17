@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Spotify](https://github.com/seanmorrissey98/seanmorrissey98/blob/main/Icons/spotify.svg)
 
 ![](https://komarev.com/ghpvc/?username=seanmorrissey98&color=blueviolet)
 
