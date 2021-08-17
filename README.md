@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/seanmorrissey2014?si=1bfd3a571a07427e)
 ![](https://komarev.com/ghpvc/?username=seanmorrissey98&color=blueviolet)
 
 
