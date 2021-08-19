@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+and+welcome+to+my+GitHub)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+and+welcome+to+my+GitHub)](https://git.io/typing-svg)
 --------------
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-morrissey-00451a155)
 [![Twitter](https://img.shields.io/badge/SeanMorrissey98-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SeanMorrissey98)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/seanmorrissey2014?si=1bfd3a571a07427e)
 
 
-Welcome to my profile! I'm [Sean](https://seanmoz.site/), a full stack developer who has graduated from the University of Limerick with a degree in Computer Systems. I am an aspiring coder with an interest in machine-learning and backend development.
+Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm [Sean](https://seanmoz.site/), a full stack developer who has graduated from the University of Limerick with a degree in Computer Systems. I am an aspiring coder with an interest in machine-learning and backend development.
 
 A list of some of my GitHub stats can be below including my most used languages and contributions in the past year.
 ## My GitHub Stats
