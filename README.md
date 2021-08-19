@@ -5,7 +5,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/seanmorrissey2014?si=1bfd3a571a07427e)
 
 
-Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm [Sean](https://seanmoz.site/), a full stack developer who has graduated from the University of Limerick with a degree in Computer Systems. I am an aspiring coder with an interest in machine-learning and backend development.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Welcome to my profile! I'm [Sean](https://seanmoz.site/), a full stack developer who has graduated from the University of Limerick with a degree in Computer Systems. I am an aspiring coder with an interest in machine-learning and backend development.
 
 A list of some of my GitHub stats can be below including my most used languages and contributions in the past year.
 ## My GitHub Stats
